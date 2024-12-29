@@ -1,7 +1,3 @@
-Muzan bot code
-#(©)CodeXBotz
-
-
 
 
 import os
