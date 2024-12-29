@@ -2,13 +2,9 @@
 pyrogram
 TgCrypto
 pyromod==1.5
+python-dotenv
 # --- For-Database ------------ #
 pymongo
 dnspython
 # --- For-Web-Response ------- #
 aiohttp
-Flask==1.1.2
-gunicorn
-Jinja2==3.0.3
-werkzeug==2.0.2
-itsdangerous==2.0.1
